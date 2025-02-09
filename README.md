@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## this place owner it's me 가운데에 로고 느낌으로 넣기
+가운데에 로고 느낌으로 넣기
+## this place owner it's me 
 (인사말)
 ## Hi there 👋
 - I'm boseok!
