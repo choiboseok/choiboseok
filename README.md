@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## I'm boseok!
 ## I'm currently learning Developer class
-배우는 언어 넣기<br>
-  빨 : #E40000
-  주 : #E36002
-  노 : #F7DF1E
-  초 : #026938
-  파 : #4B8BF5
-  남 : #00263C
+배우는 기술 넣기<br>
+  빨 : #E40000(Java)
+  주 : #E36002(JavaScript
+  노 : #F7DF1E(HTML)
+  초 : #026938(Spring)
+  파 : #4B8BF5(Python)
+  남 : #00263C(Linux)
   보 : #5A0FC8
 
 자신의 현재 스탯 상태 이미지 만들기
