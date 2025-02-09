@@ -1,4 +1,5 @@
-## Hi there 👋
+![egg](https://capsule-render.vercel.app/api?type=egg&color=auto&height=210)
+
 
 <!--
 **choiboseok/choiboseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
 
 ## I'm boseok!
 ## I'm currently learning Developer class
