@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## Hi there 👋
 - I'm boseok!
 - I'm currently learning Developer class
-<br>
 <img src="https://img.shields.io/badge/Java-F63440?style=for-the-badge&logo=grubhub&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-FF6600?style=for-the-badge&logo=netbsd&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-FFDB00?style=for-the-badge&logo=labview&logoColor=white">
