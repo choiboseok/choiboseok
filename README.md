@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - I'm currently learning Developer class
 
 배우는 기술 넣기<br>
-  빨 : #E40000(Java)
+<img src="https://img.shields.io/badge/Java-#F63440?style=for-the-badge&logo=grubhub&logoColor=white">
+  빨 : #F63440(Java)
   주 : #E36002(JavaScript
   노 : #F7DF1E(HTML)
   초 : #026938(Spring)
