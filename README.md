@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JAVA-#E40000?style=for-the-badge&logo=java&logoColor=white">
 
 
-자신의 현재 스탯 상태 이미지 만들기 
+자신의 현재 스탯 상태 이미지 만들기
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=dracula)
