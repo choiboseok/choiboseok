@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello
 ## I'm boseok!
 ## I'm currently learning Developer study
 배우는 언어 넣기<br>
