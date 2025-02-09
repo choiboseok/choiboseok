@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 배우는 언어 넣기<br>
 <html>
   <img src="https://img.shields.io/badge/JAVA-#E40000?style=for-the-badge&logo=java&logoColor=white">
+  빨 : #E40000
+  주 : #E36002
+  노 : #F7DF1E
+  초 : #026938
+  파 : #4B8BF5
+  남 : #00263C
+  보 : #5A0FC8
 </html>
 
 
