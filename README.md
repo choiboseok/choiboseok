@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## I'm boseok!
 ## I'm currently learning Developer study
 배우는 언어 넣기
-<img src="https://img.shields.io/badge/JAVA-#E40000?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 자신의 현재 스탯 상태 이미지 만들기 
