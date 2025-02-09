@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## I'm boseok!
 ## I'm currently learning Developer class
 배우는 언어 넣기<br>
-  <img src="https://img.shields.io/badge/JAVA-#E40000?style=for-the-badge&logo=java&logoColor=white">
   빨 : #E40000
   주 : #E36002
   노 : #F7DF1E
@@ -26,15 +25,6 @@ Here are some ideas to get you started:
   파 : #4B8BF5
   남 : #00263C
   보 : #5A0FC8
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/JAVA-%#E40000.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="https://capsule-render.vercel.app/">
-    <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
-  </a> 
 
 자신의 현재 스탯 상태 이미지 만들기
 <br>
