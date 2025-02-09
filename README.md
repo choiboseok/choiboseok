@@ -1,4 +1,6 @@
-![egg](https://capsule-render.vercel.app/api?type=egg&color=auto&height=210)
+<p>
+  ![egg](https://capsule-render.vercel.app/api?type=egg&color=purple&height=210&section=header&text=this place owner it's me)
+</p>
 
 
 <!--
