@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ## Hello
 ## I'm boseok!
 ## I'm currently learning Developer study
-<img src="https://img.shields.io/badge/Local-#51BB7B?style=flat-square&logo=html&logoColor="black";
+<img src="https://img.shields.io/badge/Local-#51BB7B?style=flat-square&logo=html&logoColor="black";/>
