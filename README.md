@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ## I'm currently learning Developer study
 배우는 언어 넣기
 자신의 현재 스탯 상태 이미지 만들기 
+![](https://velog.velcdn.com/images/hyejee0504/post/37ddde32-5f4b-4f46-a1d2-8f374b86a08c/image.png)
