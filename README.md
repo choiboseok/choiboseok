@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 ## Hi there 👋
 - I'm boseok!
 - I'm currently learning Developer class
-
-배우는 기술 넣기<br>
+<br>
 <img src="https://img.shields.io/badge/Java-F63440?style=for-the-badge&logo=grubhub&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-FF6600?style=for-the-badge&logo=netbsd&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-FFDB00?style=for-the-badge&logo=labview&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-1FB141?style=for-the-badge&logo=icons8&logoColor=white">
+<img src="https://img.shields.io/badge/Python-0049D7?style=for-the-badge&logo=dictionarydotcom&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-123F6D?style=for-the-badge&logo=ovh&logoColor=white">
+
   빨 : #F63440(Java)
   주 : #E36002(JavaScript
   노 : #F7DF1E(HTML)
