@@ -1,8 +1,3 @@
-<p align='center>
-  ![header](https://capsule-render.vercel.app/api?type=egg&color=purple&height=210&section=header&text=thisplaceownerit'sme)
-</p>
-
-
 <!--
 **choiboseok/choiboseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## this place owner it's me 가운데에 로고 느낌으로 넣기
+(인사말)
 ## Hi there 👋
+- I'm boseok!
+- I'm currently learning Developer class
 
-## I'm boseok!
-## I'm currently learning Developer class
 배우는 기술 넣기<br>
   빨 : #E40000(Java)
   주 : #E36002(JavaScript
