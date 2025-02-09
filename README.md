@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hello
 ## I'm boseok!
 ## I'm currently learning Developer study
-배우는 언어 넣기
+배우는 언어 넣기<br>
 <img src="https://img.shields.io/badge/JAVA-#E40000?style=for-the-badge&logo=java&logoColor=white">
 
 
