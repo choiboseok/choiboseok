@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ## I'm boseok!
 ## I'm currently learning Developer study
 배우는 언어 넣기<br>
-<html>
   <img src="https://img.shields.io/badge/JAVA-#E40000?style=for-the-badge&logo=java&logoColor=white">
   빨 : #E40000
   주 : #E36002
@@ -26,7 +25,6 @@ Here are some ideas to get you started:
   파 : #4B8BF5
   남 : #00263C
   보 : #5A0FC8
-</html>
 
 
 자신의 현재 스탯 상태 이미지 만들기
