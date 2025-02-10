@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   ## this place owner it's me <br>
   <a href="(https://github.com/choiboseok/JavaStudy)" target="_blank"><img src="https://img.shields.io/badge/Java-F63440?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-FF6600?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/HTML-FFDB00?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/Spring-1FB141?style=for-the-badge&8&logoColor=white"><img src="https://img.shields.io/badge/Python-0049D7?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/Linux-123F6D?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/C-6929C4?style=for-the-badge&&logoColor=white"><br>
 </div>
-<p>
+<p align = "center">
   <!--![GitHub stats]--><img src = "https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=cobalt">
   <!--![Top Langs]--><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&langs_count=10&layout=compact&theme=dark">
 </p>
