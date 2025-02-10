@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <div align="center">
   ## this place owner it's me <br>
   <a href="(https://github.com/choiboseok/JavaStudy)" target="_blank"><img src="https://img.shields.io/badge/Java-F63440?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-FF6600?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/HTML-FFDB00?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/Spring-1FB141?style=for-the-badge&8&logoColor=white"><img src="https://img.shields.io/badge/Python-0049D7?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/Linux-123F6D?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/C-6929C4?style=for-the-badge&&logoColor=white"><br>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=cobalt) <!-- 깃허브 스탯-->
+</div>                  
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&layout=&theme=) <br>  언어 스탯-->
-</div>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=cobalt) <!-- 깃허브 스탯-->
