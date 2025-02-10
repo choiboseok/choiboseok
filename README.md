@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  ## Hi there 👋 <br>
+  - I'm boseok! <br>
+  - I'm currently learning Developer class<br>
+  
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
 </p>
 
 <div align="center">
   ## this place owner it's me <br>
-  ## Hi there 👋 <br>
-  - I'm boseok! <br>
-  - I'm currently learning Developer class<br>
-
   <img src="https://img.shields.io/badge/Java-F63440?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-FF6600?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/HTML-FFDB00?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/Spring-1FB141?style=for-the-badge&8&logoColor=white"><img src="https://img.shields.io/badge/Python-0049D7?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/Linux-123F6D?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/C-6929C4?style=for-the-badge&&logoColor=white"><br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=cobalt) <br> <!-- 깃허브 스탯-->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&layout=compact&theme=cobalt) <br> <!-- 언어 스탯-->
