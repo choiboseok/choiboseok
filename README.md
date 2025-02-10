@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - I'm currently learning Developer class<br>
 <img src="https://img.shields.io/badge/Java-F63440?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-FF6600?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/HTML-FFDB00?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/Spring-1FB141?style=for-the-badge&8&logoColor=white"><img src="https://img.shields.io/badge/Python-0049D7?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/Linux-123F6D?style=for-the-badge&&logoColor=white"><img src="https://img.shields.io/badge/C-6929C4?style=for-the-badge&&logoColor=white">
 
-
-자신의 현재 스탯 상태 이미지 만들기
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=highcontrast)
+(https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=highcontrast) <!-- 깃허브 스탯-->
+(https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&layout=&theme=) <!-- 언어 스탯-->
