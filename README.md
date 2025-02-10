@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 <html>
   <head>
-    #p_id{
+    <style>
+      #p_id{
         transform :rotate(60deg);
-      }
+      }  
+    </style>
   </head>
   <body>
     ## Hi there 👋 <br>
