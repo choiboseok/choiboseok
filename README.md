@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 </div>
 <p>
   ![GitHub stats]<img src = "https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=cobalt">
-  ![Top Langs]<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&layout=default&theme=default">
+  ![Top Langs]<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&langs_count=10&layout=compact&theme=dark">
 </p>
