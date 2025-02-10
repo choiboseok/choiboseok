@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 자신의 현재 스탯 상태 이미지 만들기
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=highcontrast)
