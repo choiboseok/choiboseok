@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&layout=default&theme=default)  언어 스탯-->
   ## Hi there 👋 <br>
   - I'm boseok! <br>
   - I'm currently learning Developer class<br>
@@ -27,4 +26,5 @@ Here are some ideas to get you started:
 </div>
 <p>
   ![GitHub stats]<img src = "https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=cobalt">
+  ![Top Langs]<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&layout=default&theme=default">
 </p>
