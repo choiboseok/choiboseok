@@ -29,6 +29,3 @@ Here are some ideas to get you started:
   <!--![Top Langs]--><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&langs_count=10&layout=compact&theme=dark">
 </p>
 
-<p align='center'>
-    <img src="스크린샷_10-2-2025_1830_.jpeg"/>
-</p>
