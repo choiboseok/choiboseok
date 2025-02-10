@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ## Hi there 👋 <br>
 - I'm boseok! <br>
 - I'm currently learning Developer class<br>
-    
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?  type=egg&color=auto&height=300&section=header&text=this%20place%20owner%20it's%20me&fontSize=55&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=51&descAlign=62"/>
 </p>
@@ -27,8 +26,4 @@ Here are some ideas to get you started:
 <p align = "center">
     <!--![GitHub stats]--><img src = "https://github-readme-stats.vercel.app/api?username=choiboseok&show_icons=true&theme=cobalt">
     <!--![Top Langs]--><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=choiboseok&langs_count=10&layout=compact&theme=dark">
-</p>
-      
-<p align='center' id = "p_id">
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=this%20place%20owner%20it's%20me&fontSize=55&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=51&descAlign=62"/>
 </p>
