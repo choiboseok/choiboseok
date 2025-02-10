@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   - I'm currently learning Developer class<br>
   
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=this%20place%20owner%20it's%20me&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20%20%20!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=this%20place%20owner%20it's%20me&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20%20%20!&descAlignY=51&descAlign=62"/>
 </p>
 
 <div align="center">
